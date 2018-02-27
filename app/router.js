@@ -12,6 +12,7 @@ Router.map(function() {
   this.route('rentals');
   this.route('languages');
   this.route('social');
+  this.route('projects');
 });
 
 export default Router;

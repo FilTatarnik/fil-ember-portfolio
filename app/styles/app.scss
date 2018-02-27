@@ -1,18 +1,13 @@
 
-
 p {
 	background-color:#3498db;
 	font-size: 20px;
 	text-align: center;
-}
 
-.jumbo{
-	background-color: #3498db;
-	text-align: center;
-	display: block;
-	
 
 }
+
+
 
 h1{
 
@@ -22,8 +17,40 @@ h1{
 
 
 
-h3{
-		text-align: center;
+
+
+.panel{
+	background-color:white;
+
+}
+
+.panel-default{
+	background-color:white;
+}
+
+.panel-body{
+	background-color:#3498db;
+}
+
+.button{
+	color:white;
+	font-size: 15px;
+	text-align: right;
+
+
+}
+.button_1{
+	color:white;
+	font-size:10px;
+}
+
+
+.jumbo{
+	background-color: #3498db;
+	text-align: center;
+	display: block;
+	color:white;
+	
 
 }
 
